@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: hsl(226, 43%, 10%);
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  margin: 35px auto;
+  width: 350px;
+  height: 480px;
+  border-radius: 5px;
+  background: hsl(235, 46%, 20%);
+  overflow: hidden;
+}
+
+.flexItem1 {
+  flex-grow: 2;
+  background: hsl(226, 45%, 61%, 0.5);
+  margin: 5px ;
+  border-radius: 5px;
+}
+
+.flexItem2 {
+  flex-grow: 1;
+  background: hsl(206, 45%, 61%, 0.05);
+  margin: 5px ;
+}
+
+
