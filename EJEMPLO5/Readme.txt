@@ -1,6 +1,10 @@
 ###################################################################
 #                                                                 #
+<<<<<<< HEAD
+#                  Primer ejemplo de curso de Flexbox             #
+=======
 #                  4to ejemplo del curso de Flexbox                #
+>>>>>>> 2e6a369 (Primera parte ejemplo 5)
 #                                                                 #
 #                    Creado por: Mario Posada                     #
 #                                                                 #
@@ -11,6 +15,10 @@
                       
                              CONTENIDO
 
+<<<<<<< HEAD
+1- Una caja "container" de dimensiones fijas y flex activado, con direccion "column".
+2- Dos flex-items dentro de "container"   con crecimiento activado en diferentes proporciones sin tamanio fijo.
+=======
 1- Una caja "container" con min-width 620px y min-height 100vh y flex activado, con 
 direccion "column". Centrado de sus hijos, en x e y.
 2- 1 flex-item ."card" con min-height para que crezca, con display Flex activado en "column". 
@@ -88,5 +96,6 @@ font-family: 'Poppins', sans-serif;
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;1,300&family=Vollkorn:wght@700&display=swap" rel="stylesheet">
 
+>>>>>>> 2e6a369 (Primera parte ejemplo 5)
 
       
